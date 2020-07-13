@@ -1,16 +1,36 @@
-### Hi there 👋
 
-<!--
-**adnanazmee/adnanazmee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Adnan Azmee 👨‍💻
 
-Here are some ideas to get you started:
+I am a Machine-learning enthusiast and Python Developer. I am passionate about technologies and love to learn new things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🔭 I’m currently looking for new opportunities .
+
+
+## ⚡ Tech Stack
+
+Here are a few things I've picked up along my learning journey.
+
+* 🗣 Python | Java | SQL 
+* 🖇️ Django
+* 🛢️ MySQL | SQLite 
+* :octocat: Git | Github
+* 🌐 HTML | CSS
+* ☁ Firebase
+* 🔗 REST API
+* 💠 Blender
+* ♽ Docker
+* 📟 Raspberry PI | Arduino | NodeMCU
+
+## 📫 Get in touch
+- LinkedIn - [Adnan Azmee](https://in.linkedin.com/in/adnanazmee)
+- Twitter - [@AzmeeAdnan](https://twitter.com/AzmeeAdnan)
+- Reddit - [adnanazmee](https://reddit.com/user/adnanazmee)
+
+ or give some ♥ on [mail](mailto:adnanazmee@gmail.com) .
+
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=adnanazmee/adnanazmee)
+
+
+ 
