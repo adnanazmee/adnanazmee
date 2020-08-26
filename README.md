@@ -16,9 +16,7 @@ Here are a few things I've picked up along my learning journey.
 * :octocat: Git | Github
 * 🌐 HTML | CSS
 * ☁ Firebase
-* 🔗 REST API
 * 💠 Blender
-* ♽ Docker
 * 📟 Raspberry PI | Arduino | NodeMCU
 
 ## 📫 Get in touch
