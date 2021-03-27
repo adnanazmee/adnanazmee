@@ -1,7 +1,7 @@
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Adnan Azmee 👨‍💻
 
-I am a Machine-learning enthusiast and Python Developer. I am passionate about technologies and love to learn new things.
+I am a Full Stack Software Developer and machine-learning enthusiast. I am passionate about technologies and love to learn new things.
 
 #### 🔭 I’m currently looking for new opportunities .
 
@@ -10,10 +10,10 @@ I am a Machine-learning enthusiast and Python Developer. I am passionate about t
 
 Here are a few things I've picked up along my learning journey.
 
-* 🗣 Python | Java | SQL 
-* 🖇️ Django
-* 🛢️ MySQL | SQLite 
-* :octocat: Git | Github
+* 🗣 JavaScript| TypeScript | Python | Java | SQL 
+* 🖇️ Angular | Express JS | Nest JS | Django
+* 🛢️ MySQL | Cassandra | MongoDB 
+* :octocat: Git | Github | BitBucket
 * 🌐 HTML | CSS
 * ☁ Firebase
 * 💠 Blender
