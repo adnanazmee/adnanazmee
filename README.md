@@ -11,7 +11,7 @@ I am a Full Stack Software Developer and machine-learning enthusiast. I am passi
 Here are a few things I've picked up along my learning journey.
 
 * 🗣 JavaScript| TypeScript | Python | Java | SQL 
-* 🖇️ Angular | Express JS | Nest JS | Django
+* 🖇️ Angular | Express JS | Nest JS | Express JS | Django
 * 🛢️ MySQL | Cassandra | MongoDB 
 * :octocat: Git | Github | BitBucket
 * 🌐 HTML | CSS
