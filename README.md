@@ -1,7 +1,7 @@
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Adnan Azmee 👨‍💻
 
-I am a Full Stack Software Developer and machine-learning enthusiast. I am passionate about technologies and love to learn new things.
+I am a Full Stack Software Developer and Machine-Learning enthusiast. I am passionate about technologies and love to learn new things.
 
 ### 🔭 Have a look at my latest [article](https://dev.to/adnanazmee/deploying-react-app-with-yarn-on-apache-server-centos-7-oracle-linux-7-2pp9).
 
