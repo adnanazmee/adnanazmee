@@ -3,7 +3,7 @@
 
 I am a Full Stack Software Developer and Machine-Learning enthusiast. I am passionate about technologies and love to learn new things.
 
-### 🔭 Have a look at my latest [article](https://dev.to/adnanazmee/deploying-react-app-with-yarn-on-apache-server-centos-7-oracle-linux-7-2pp9).
+### 🔭 Have a look at my [website](https://adnanazmee.me/).
 
 
 ## ⚡ Tech Stack
